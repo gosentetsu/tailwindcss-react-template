@@ -2,7 +2,7 @@
 
 ![tailwindcss logo](https://tailwindcss.com/_next/static/media/tailwindcss-logotype.128b6e12eb85d013bc9f80a917f57efe.svg)
 
-## This is a react app template with tailwind installed and configured following the [tailwind official install instruction](https://tailwindcss.com/docs/guides/create-react-app).
+### This is a react app template with tailwind installed and configured following the [tailwind official install instruction](https://tailwindcss.com/docs/guides/create-react-app).
 
 
 ### `npm start`
